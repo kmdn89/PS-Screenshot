@@ -43,6 +43,7 @@ The samba server will need to allow anonymous read and write since the exploit s
 In this example the script will be named `launcher.ps1`
 
 ```powershell
+
 $C =  @"
     using System;
     using System.Diagnostics;
